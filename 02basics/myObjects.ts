@@ -1,7 +1,7 @@
 // const User = {
 //     name: "hitesh",
 //     email: "hitesh@lco.dev",
-//     isAvtive: true
+//     isActive: true
 // }
 
 // function createUser({name: string, isPaid: boolean}){}
